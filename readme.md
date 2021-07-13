@@ -98,3 +98,5 @@ If you can try again to the minicom interface you only need put:
 sudo minicom
 
 ~~~
+
+As of now you can interact with the board.

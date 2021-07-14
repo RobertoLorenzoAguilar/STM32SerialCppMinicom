@@ -101,16 +101,35 @@ sudo minicom
 
 As of now you can interact with the board.
 
-I developed a simple graphical user interface
-
-prerequisites. python 3 
+I developed a simple graphical user interface;
+what you need?
+install the next:
 ~~~
-
+-python3 ("my version is python 3, I didnt try with version 2")
+-python install pip -----> this is the python package manager
 -pip install pyserial
 -pip install serial-tool
 ~~~
 
 if you have installed python don't need anything more, because the framework to create GUIs is integrated into the standard library of python.
+
+![image](https://user-images.githubusercontent.com/48602725/125545300-0c4a2650-23d5-4ec5-a67b-bc45ad1fd97a.png)
+
+Initial configuration
+~~~
+1.- select the COM of your board in my case is  COM5
+2.- select the baudrate
+3.- click connect
+~~~
+
+if all was fine, should appear the next message
+
+![image](https://user-images.githubusercontent.com/48602725/125545450-edd0ed51-c160-4f0c-846a-f0b4e37c7218.png)
+
+
+You can test the system, typing numbers to calculate the square number, also you will have another interface, which will functionality of show the serial log.
+
+![image](https://user-images.githubusercontent.com/48602725/125545545-f6c399e0-bf5e-432e-b56d-de980440e5f7.png)
 
 
 

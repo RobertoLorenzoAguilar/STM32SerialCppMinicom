@@ -111,7 +111,7 @@ install the next:
 -pip install serial-tool
 ~~~
 
-if you have installed python don't need anything more, because the framework to create GUIs is integrated into the standard library of python.
+if you have installed python don't need anything more, because #  "tkinter" the framework to create GUIs is integrated into the standard library of python.
 
 ![image](https://user-images.githubusercontent.com/48602725/125545300-0c4a2650-23d5-4ec5-a67b-bc45ad1fd97a.png)
 

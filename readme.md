@@ -101,6 +101,17 @@ sudo minicom
 
 As of now you can interact with the board.
 
+I developed a simple graphical user interface
+
+prerequisites. python 3 
+~~~
+
+-pip install pyserial
+-pip install serial-tool
+~~~
+
+if you have installed python don't need anything more, because the framework to create GUIs is integrated into the standard library of python.
+
 
 
 TODO: Pending by load.
